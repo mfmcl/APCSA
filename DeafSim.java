@@ -20,7 +20,7 @@ import java.util.Scanner;
 
 public class DeafSim {
 	public static void main(String[] args) {
-		String input = "Word1 Word2 Word3 Word4 Word5";
+		String input = "HelloWorld";
 		System.out.println(methodA(input));
 		System.out.println(methodB(input));
 		System.out.println(methodC1(input));
