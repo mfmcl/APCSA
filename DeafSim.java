@@ -23,7 +23,6 @@ public class DeafSim {
 		System.out.println(methodA(input));
 		System.out.println(methodB(input));
 		System.out.println(methodC1(input));
-		System.out.println(methodC2(input));
 		System.out.println(methodD(input));
 	}
 	public static String methodA(String input) {
@@ -40,17 +39,11 @@ public class DeafSim {
 		String result = input.substring(startIdx, endIdx);
 		return result;
 	}
-	// with array
 	public static String methodC1(String input)  {
 		String[] words = input.split(" ");
 		int numOfWords = words.length;
 		int randomWordIdx = (int) (Math.random() * numOfWords);
 		String result = words[randomWordIdx];
-		return result;
-	}
-	// no array
-	public static String methodC2(String input)  {
-		String result = "";
 		return result;
 	}
 	public static String methodD(String input) {
