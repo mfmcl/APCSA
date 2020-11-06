@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 /**
  * HW: Simulation of a deaf person hearing Make a simulator of a deaf person
