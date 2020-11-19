@@ -1,3 +1,5 @@
+package APCSA_Homework.src;
+
 import java.util.Scanner;
 
 public class Mike_DecToBinary {

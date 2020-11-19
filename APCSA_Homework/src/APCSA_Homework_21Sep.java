@@ -1,3 +1,5 @@
+package APCSA_Homework.src;
+
 public class APCSA_Homework_21Sep {
     public static void main(String[] args) {
         predictions();
