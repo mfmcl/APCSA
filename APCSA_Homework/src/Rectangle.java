@@ -18,6 +18,33 @@ o	 moveIt(int) will increase both points‘ X coordinate.
 -	get their area
 
  */
-public class Rectange {
-    
-}
+public class Rectangle {
+
+    private Point PointA;
+    private Point PointC;
+
+    Rectangle() {
+        
+    }
+    Rectangle(Point a, Point c) {
+
+    }
+
+    public static void randSize() {
+
+    }
+
+    public int getArea() {
+        int area = Math.abs(PointA.getX() - PointC.getX()) * Math.abs(PointA.getY() - PointC.getY());
+        return area;
+    }
+
+    @Override
+    public String toString() {
+        return "I am a rectangle with point A:"+ PointA + " Point B: " + PointC ;
+    }
+
+    public static void main(String[] args) {
+        Rectangle rect = new Rectangle();
+        System.out.println(rect.toString());   
+    }
