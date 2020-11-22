@@ -22,16 +22,16 @@ public class Point {
         setXY(x, y);
     }
 
-    private void setXY(int x, int y) {
+    public void setXY(int x, int y) {
         this.x = x;
         this.y = y;
     }
 
-    private int getX() {
+    public int getX() {
         return x;
     }
 
-    private int getY() {
+    public int getY() {
         return y;
     }
 
@@ -47,7 +47,7 @@ public class Point {
 
     @Override
     public String toString() {
-        return "I am a point with coordinate X: " + getX() + ", coordinate Y: " + getY();
+        return "[" + getX() + ", " + getY() + "]";
     }
 
     public static void main(String[] args) {
