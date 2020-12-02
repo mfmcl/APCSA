@@ -54,7 +54,7 @@ public class Lamp {
     public static void main(String[] args) {
         Lamp L1 = new Lamp(); // 1.
         Lamp L2 = new Lamp("red", 180); // 6b actual parameters
-        Lamp L3 = new Lamp(); //TODO: 2., 3. angle  of both will be 180, as it is the maximum possible value
+        Lamp L3 = new Lamp(); // 2., 3. angle  of both will be 180, as it is the maximum possible value
         L3 = L2;
         
         L2.setAngle(1.5F); // 4., 5. angle of both L2 and L3 will still be 180, as it's the maximum possible value
