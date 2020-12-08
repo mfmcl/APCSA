@@ -1,0 +1,19 @@
+!This hw can be done later after the class if you can not manage it sooner
+
+1. Study below files in unit4polymorphism
+https://github.com/dmicuch-cs/APCSA2021/tree/master/src/a...
+
+Interfaces: iDomesticable, iFlyable, iRunnable, iSwimable
+Abstract classes: Aanimal, Abirds, Afish, Aterestrial
+Main class Nature.java
+Sample animal: Eagle.java
+
+2. Follow the structure of Eagle and create your own two animals (Cow, Dophin, ... )
+Use appropriate interfaces and override necessary abstract methods.
+
+3. Change Nature.java as well to test your source code.
+
+4. Share your files in Github or veracross.
+
+Optional – Should you be interested in some combination of interfaces, classes do it
+(FROG - amphibian). I would be delighted.
