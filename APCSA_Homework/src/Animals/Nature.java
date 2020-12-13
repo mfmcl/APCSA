@@ -12,8 +12,11 @@ public class Nature {
     public static void main(String[] args) {
         System.out.println("\n************ Creating animals ************");
 
-        Eagle e=new Eagle();
+        Eagle e = new Eagle();
         System.out.println(e.showYourself());
+
+        Cheetah c = new Cheetah();
+        System.out.println(c.showYourself());
 
         System.out.println("************ Finished ************");
          
