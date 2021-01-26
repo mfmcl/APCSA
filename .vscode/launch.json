@@ -1,0 +1,127 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File and Pause",
+            "request": "launch",
+            "mainClass": "${file}"
+            "stopOnEntry": true,
+        },
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch APCSA_Homework_21Sep",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.APCSA_Homework_21Sep",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nature",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.Animals.Nature",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.App",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountCode",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.CountCode",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeafSim",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.DeafSim",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorldWhitespace",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.HelloWorldWhitespace",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch ISBN",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.ISBN",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lamp",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.Lamp",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mike_CtoFConverter",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.Mike_CtoFConverter",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mike_DecToBinary",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.Mike_DecToBinary",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mike_Shapes",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.Mike_Shapes",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mike_TimeCheck",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.Mike_TimeCheck",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Point",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.Point",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangle",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.Rectangle",
+            "projectName": "APCSA_4ad731ab"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeatEnd",
+            "request": "launch",
+            "mainClass": "APCSA_Homework.src.RepeatEnd",
+            "projectName": "APCSA_4ad731ab"
+        }
+    ]
+}
