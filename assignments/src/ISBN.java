@@ -1,4 +1,4 @@
-package APCSA_Homework.src;
+package assignments.src;
 
 /**
  * Create a static method that generates a random former ISBN number following

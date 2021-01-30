@@ -1,4 +1,4 @@
-package APCSA_Homework.src;
+package assignments.src;
 
 /**
  * 2. Define a class Rectangle - Fields: private point PointA, private point

@@ -1,4 +1,4 @@
-package APCSA_Homework.src.Animals;
+package assignments.src.Animals;
 
 interface iSwimable {
     String swimming();

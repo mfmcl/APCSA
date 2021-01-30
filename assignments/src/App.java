@@ -1,4 +1,4 @@
-package APCSA_Homework.src;
+package assignments.src;
 
 public class App {
     public static void main(String[] args) throws Exception {

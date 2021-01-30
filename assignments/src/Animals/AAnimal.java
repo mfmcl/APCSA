@@ -1,4 +1,4 @@
-package APCSA_Homework.src.Animals;
+package assignments.src.Animals;
 
 /**
  * This is top Abstract class of all animals

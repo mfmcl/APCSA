@@ -1,4 +1,4 @@
-package APCSA_Homework.src;
+package assignments.src;
 
 public class Lamp {
     private boolean isOn = false;

@@ -1,4 +1,4 @@
-package APCSA_Homework.src;
+package assignments.src;
 
 /*
 Given a string and an int n, return a string made of n repetitions of the last n characters of the string.

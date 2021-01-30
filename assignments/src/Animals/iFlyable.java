@@ -1,4 +1,4 @@
-package APCSA_Homework.src.Animals;
+package assignments.src.Animals;
 
 /**
  * This interface should be implemented by all flyable living creatures

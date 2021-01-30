@@ -1,4 +1,4 @@
-package APCSA_Homework.src.Animals;
+package assignments.src.Animals;
 
 abstract class ATerestrial extends AAnimal implements iRunable {
 

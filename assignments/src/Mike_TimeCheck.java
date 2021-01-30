@@ -1,4 +1,4 @@
-package APCSA_Homework.src;
+package assignments.src;
 
 /* Create a function that responds with the appropriate part of the day (morning, afternoon, night) to time of the Day.
 Input - hourOfTheDay (0-24). Output check below.
