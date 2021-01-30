@@ -1,4 +1,4 @@
-package APCSA_Homework.src;
+package assignments.src;
 
 /**
  * 1. Define a class Point - Fields: private Int CoordinateX, private Int

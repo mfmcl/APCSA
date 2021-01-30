@@ -1,4 +1,4 @@
-package APCSA_Homework.src;
+package assignments.src;
 
 /**
  * HW: Simulation of a deaf person hearing Make a simulator of a deaf person

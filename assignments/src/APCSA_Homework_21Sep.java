@@ -1,4 +1,4 @@
-package APCSA_Homework.src;
+package assignments.src;
 
 public class APCSA_Homework_21Sep {
     public static void main(String[] args) {
