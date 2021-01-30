@@ -1,4 +1,4 @@
-package assignments.src.Animals;
+package Animals;
 
 /**
  * Concrete class of Golden eagle

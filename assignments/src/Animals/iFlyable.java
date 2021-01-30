@@ -1,4 +1,4 @@
-package assignments.src.Animals;
+package Animals;
 
 /**
  * This interface should be implemented by all flyable living creatures

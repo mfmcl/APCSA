@@ -1,4 +1,4 @@
-package assignments.src.Animals;
+package Animals;
 
  abstract class AFish {
     

@@ -1,4 +1,4 @@
-package assignments.src.Animals;
+package Animals;
 
 /**
  * This is top Abstract class of all animals

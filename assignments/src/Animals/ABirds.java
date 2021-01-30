@@ -1,4 +1,4 @@
-package assignments.src.Animals;
+package Animals;
 
 /**
  * This is abstract group of species with ability to fly
