@@ -1,11 +1,9 @@
-package Animals;
+package assignments.src.Animals;
 
 /**
  * Demostration of Abstract, Interfaces, Polymorphism
  * 
- * This is main program
-*   - Add new animal Type
-    - Add function to showYourself()
+ * This is main program - Add new animal Type - Add function to showYourself()
  */
 
 public class Nature {

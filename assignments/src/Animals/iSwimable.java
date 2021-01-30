@@ -1,4 +1,4 @@
-package Animals;
+package assignments.src.Animals;
 
 interface iSwimable {
     String swimming();

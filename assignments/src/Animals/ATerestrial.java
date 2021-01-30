@@ -1,4 +1,4 @@
-package Animals;
+package assignments.src.Animals;
 
 abstract class ATerestrial extends AAnimal implements iRunable {
 
