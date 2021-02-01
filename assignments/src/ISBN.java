@@ -25,7 +25,7 @@ public class ISBN {
         int temp = Integer.parseInt(isbn);
         int sum = 0;
         for (int i = 2; i <= 10; i++) {
-            int d = temp % 10;
+            int d = temp % 10
             sum += i * d;
             temp /= 10;
         }        
